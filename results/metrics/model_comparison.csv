@@ -1,0 +1,4 @@
+Modelo,Precision,Recall,F1,ROC_AUC,PR_AUC,Threshold,Rol
+Logistic Regression,0.088167,0.745098,0.157676,0.949417,0.37398,,Modelo base
+Random Forest tuneado,0.6,0.411765,0.488372,0.96374,0.457401,0.31,Modelo final
+XGBoost,0.126866,0.666667,0.213166,0.95356,0.455986,,Modelo comparativo

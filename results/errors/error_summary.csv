@@ -1,0 +1,5 @@
+Tipo,Cantidad,Probabilidad_Media,Probabilidad_Min,Probabilidad_Max
+TN,12403,,,
+FP,8,0.5463,0.367,0.8256
+FN,32,0.0877,0.0,0.343
+TP,19,0.6178,0.3542,0.9384

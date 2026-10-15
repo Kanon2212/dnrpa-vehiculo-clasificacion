@@ -1,0 +1,2 @@
+# SHAP
+Los resultados SHAP provienen del análisis de referencia con Random Forest ya completado. Los valores SHAP positivos apuntan hacia *No_Privado*, mientras que los negativos lo hacen hacia *Privado*. Las asociaciones SHAP son de carácter interpretativo y no deben considerarse efectos causales.

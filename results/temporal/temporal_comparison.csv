@@ -1,0 +1,4 @@
+Evaluacion,Train,Test,Positivos_Test,Threshold,Precision,Recall,F1,ROC_AUC,PR_AUC
+Random split,2016-2026,Random 20%,51,0.35,0.703704,0.372549,0.487179,0.927122,0.402747
+Temporal,2016-2023,2024-2026,8,0.35,0.0,0.0,0.0,0.85482,0.054151
+Temporal - mejor F1 evaluado,2016-2023,2024-2026,8,0.1,0.081081,0.375,0.133333,0.85482,0.054151
